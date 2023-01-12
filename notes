@@ -1,0 +1,14 @@
+To start application:
+
+npm run start
+
+To install styled components:
+
+npm install styled-components
+
+To Install Font-Awesome:
+
+npm install --save font-awesome
+
+Github Commits:
+git add .
