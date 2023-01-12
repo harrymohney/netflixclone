@@ -12,3 +12,13 @@ npm install --save font-awesome
 
 Github Commits:
 git add .
+git commit -m 'header done'
+git push origin master
+
+echo "# netflixclone" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/harrymohney/netflixclone.git
+git push -u origin master
